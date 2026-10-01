@@ -1,4 +1,4 @@
-Implement Client Script & UI Policy -- Incident Management in ServiceNow
+**Implement Client Script & UI Policy -- Incident Management in ServiceNow**
 
 A ServiceNow ITSM project that implements UI Policies and JavaScript
 Client Scripts to improve Incident data integrity, automate urgency
